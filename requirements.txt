@@ -1,3 +1,5 @@
 diffusers
 torch
 transformers
+uvicorn
+gunicorn
